@@ -1,0 +1,7 @@
+D:\develop\C++\Assignment1-1\bin\Debug\Assignment1-1.exe.config
+D:\develop\C++\Assignment1-1\bin\Debug\Assignment1-1.exe
+D:\develop\C++\Assignment1-1\bin\Debug\Assignment1-1.pdb
+D:\develop\C++\Assignment1-1\obj\Debug\Assignment1-1.csproj.AssemblyReference.cache
+D:\develop\C++\Assignment1-1\obj\Debug\Assignment1-1.csproj.CoreCompileInputs.cache
+D:\develop\C++\Assignment1-1\obj\Debug\Assignment1-1.exe
+D:\develop\C++\Assignment1-1\obj\Debug\Assignment1-1.pdb
