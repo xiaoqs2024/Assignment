@@ -1,0 +1,14 @@
+D:\develop\C++\AiShi\bin\Debug\net8.0\AiShi.exe
+D:\develop\C++\AiShi\bin\Debug\net8.0\AiShi.deps.json
+D:\develop\C++\AiShi\bin\Debug\net8.0\AiShi.runtimeconfig.json
+D:\develop\C++\AiShi\bin\Debug\net8.0\AiShi.dll
+D:\develop\C++\AiShi\bin\Debug\net8.0\AiShi.pdb
+D:\develop\C++\AiShi\obj\Debug\net8.0\AiShi.GeneratedMSBuildEditorConfig.editorconfig
+D:\develop\C++\AiShi\obj\Debug\net8.0\AiShi.AssemblyInfoInputs.cache
+D:\develop\C++\AiShi\obj\Debug\net8.0\AiShi.AssemblyInfo.cs
+D:\develop\C++\AiShi\obj\Debug\net8.0\AiShi.csproj.CoreCompileInputs.cache
+D:\develop\C++\AiShi\obj\Debug\net8.0\AiShi.dll
+D:\develop\C++\AiShi\obj\Debug\net8.0\refint\AiShi.dll
+D:\develop\C++\AiShi\obj\Debug\net8.0\AiShi.pdb
+D:\develop\C++\AiShi\obj\Debug\net8.0\AiShi.genruntimeconfig.cache
+D:\develop\C++\AiShi\obj\Debug\net8.0\ref\AiShi.dll
