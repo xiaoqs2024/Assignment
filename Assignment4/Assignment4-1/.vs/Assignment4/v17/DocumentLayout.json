@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\C\u002B\u002B\\Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4634AB-0A25-4EAF-8E81-21C22DDBE6AA}|..\\Clock\\Clock.csproj|d:\\develop\\c\u002B\u002B\\clock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4634AB-0A25-4EAF-8E81-21C22DDBE6AA}|..\\Clock\\Clock.csproj|d:\\develop\\c\u002B\u002B\\clock\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4634AB-0A25-4EAF-8E81-21C22DDBE6AA}|..\\Clock\\Clock.csproj|d:\\develop\\c\u002B\u002B\\clock\\clockeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4634AB-0A25-4EAF-8E81-21C22DDBE6AA}|..\\Clock\\Clock.csproj|d:\\develop\\c\u002B\u002B\\clock\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228161C9-7B12-4F32-9F7C-22DE7570C416}|Assignment4.csproj|D:\\develop\\C\u002B\u002B\\Assignment4\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228161C9-7B12-4F32-9F7C-22DE7570C416}|Assignment4.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228161C9-7B12-4F32-9F7C-22DE7570C416}|Assignment4.csproj|D:\\develop\\C\u002B\u002B\\Assignment4\\genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228161C9-7B12-4F32-9F7C-22DE7570C416}|Assignment4.csproj|solutionrelative:genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228161C9-7B12-4F32-9F7C-22DE7570C416}|Assignment4.csproj|D:\\develop\\C\u002B\u002B\\Assignment4\\caculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228161C9-7B12-4F32-9F7C-22DE7570C416}|Assignment4.csproj|solutionrelative:caculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228161C9-7B12-4F32-9F7C-22DE7570C416}|Assignment4.csproj|d:\\develop\\c\u002B\u002B\\assignment4\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228161C9-7B12-4F32-9F7C-22DE7570C416}|Assignment4.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Caculator.cs",
+              "DocumentMoniker": "D:\\develop\\C\u002B\u002B\\Assignment4\\Caculator.cs",
+              "RelativeDocumentMoniker": "Caculator.cs",
+              "ToolTip": "D:\\develop\\C\u002B\u002B\\Assignment4\\Caculator.cs",
+              "RelativeToolTip": "Caculator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:46:36.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\develop\\C\u002B\u002B\\Clock\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Clock\\Program.cs",
+              "ToolTip": "D:\\develop\\C\u002B\u002B\\Clock\\Program.cs",
+              "RelativeToolTip": "..\\Clock\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:42:31.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\develop\\C\u002B\u002B\\Assignment4\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "D:\\develop\\C\u002B\u002B\\Assignment4\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:12:41.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cs",
+              "DocumentMoniker": "D:\\develop\\C\u002B\u002B\\Assignment4\\main.cs",
+              "RelativeDocumentMoniker": "main.cs",
+              "ToolTip": "D:\\develop\\C\u002B\u002B\\Assignment4\\main.cs",
+              "RelativeToolTip": "main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:53:23.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericList.cs",
+              "DocumentMoniker": "D:\\develop\\C\u002B\u002B\\Assignment4\\GenericList.cs",
+              "RelativeDocumentMoniker": "GenericList.cs",
+              "ToolTip": "D:\\develop\\C\u002B\u002B\\Assignment4\\GenericList.cs",
+              "RelativeToolTip": "GenericList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:11:36.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "D:\\develop\\C\u002B\u002B\\Clock\\Clock.cs",
+              "RelativeDocumentMoniker": "..\\Clock\\Clock.cs",
+              "ToolTip": "D:\\develop\\C\u002B\u002B\\Clock\\Clock.cs",
+              "RelativeToolTip": "..\\Clock\\Clock.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:47:07.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClockEventArgs.cs",
+              "DocumentMoniker": "D:\\develop\\C\u002B\u002B\\Clock\\ClockEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\Clock\\ClockEventArgs.cs",
+              "ToolTip": "D:\\develop\\C\u002B\u002B\\Clock\\ClockEventArgs.cs",
+              "RelativeToolTip": "..\\Clock\\ClockEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:46:38.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.cs",
+              "DocumentMoniker": "D:\\develop\\C\u002B\u002B\\Clock\\Form.cs",
+              "RelativeDocumentMoniker": "..\\Clock\\Form.cs",
+              "ToolTip": "D:\\develop\\C\u002B\u002B\\Clock\\Form.cs",
+              "RelativeToolTip": "..\\Clock\\Form.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:47:20.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
