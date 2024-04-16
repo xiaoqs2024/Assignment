@@ -1,0 +1,24 @@
+D:\develop\C++\Assignment6\bin\Debug\Assignment6.exe.config
+D:\develop\C++\Assignment6\bin\Debug\Assignment6.exe
+D:\develop\C++\Assignment6\bin\Debug\Assignment6.pdb
+D:\develop\C++\Assignment6\obj\Debug\Assignment6.csproj.AssemblyReference.cache
+D:\develop\C++\Assignment6\obj\Debug\Assignment6.From.resources
+D:\develop\C++\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+D:\develop\C++\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.cache
+D:\develop\C++\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+D:\develop\C++\Assignment6\obj\Debug\Assignment6.exe
+D:\develop\C++\Assignment6\obj\Debug\Assignment6.pdb
+D:\develop\C++\Assignment6\obj\Debug\Assignment6.AddOrderInterface.resources
+D:\develop\C++\Assignment6\obj\Debug\Assignment6.ChangeOrderInterface.resources
+D:\develop\VS Studio\Assignment6\bin\Debug\Assignment6.exe.config
+D:\develop\VS Studio\Assignment6\bin\Debug\Assignment6.exe
+D:\develop\VS Studio\Assignment6\bin\Debug\Assignment6.pdb
+D:\develop\VS Studio\Assignment6\obj\Debug\Assignment6.csproj.AssemblyReference.cache
+D:\develop\VS Studio\Assignment6\obj\Debug\Assignment6.ChangeOrderInterface.resources
+D:\develop\VS Studio\Assignment6\obj\Debug\Assignment6.From.resources
+D:\develop\VS Studio\Assignment6\obj\Debug\Assignment6.Properties.Resources.resources
+D:\develop\VS Studio\Assignment6\obj\Debug\Assignment6.csproj.GenerateResource.cache
+D:\develop\VS Studio\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+D:\develop\VS Studio\Assignment6\obj\Debug\Assignment6.exe
+D:\develop\VS Studio\Assignment6\obj\Debug\Assignment6.pdb
+D:\develop\VS Studio\Assignment6\obj\Debug\Assignment6.DetailsInterface.resources
