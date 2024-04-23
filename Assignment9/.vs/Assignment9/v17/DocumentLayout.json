@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\develop\\VS Studio\\Assignment9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BF161D-B40F-4822-8A00-DF1855B6BA7A}|..\\client\\client.csproj|d:\\develop\\vs studio\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BF161D-B40F-4822-8A00-DF1855B6BA7A}|..\\client\\client.csproj|d:\\develop\\vs studio\\client\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BF161D-B40F-4822-8A00-DF1855B6BA7A}|..\\client\\client.csproj|d:\\develop\\vs studio\\client\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BF161D-B40F-4822-8A00-DF1855B6BA7A}|..\\client\\client.csproj|d:\\develop\\vs studio\\client\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BF161D-B40F-4822-8A00-DF1855B6BA7A}|..\\client\\client.csproj|d:\\develop\\vs studio\\client\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BF161D-B40F-4822-8A00-DF1855B6BA7A}|..\\client\\client.csproj|d:\\develop\\vs studio\\client\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|d:\\develop\\vs studio\\assignment9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|d:\\develop\\vs studio\\assignment9\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|solutionrelative:models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|d:\\develop\\vs studio\\assignment9\\models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|solutionrelative:models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|d:\\develop\\vs studio\\assignment9\\models\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|solutionrelative:models\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|d:\\develop\\vs studio\\assignment9\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|d:\\develop\\vs studio\\assignment9\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|solutionrelative:controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|d:\\develop\\vs studio\\assignment9\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|d:\\develop\\vs studio\\assignment9\\models\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|solutionrelative:models\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|d:\\develop\\vs studio\\assignment9\\assignment9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|solutionrelative:assignment9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|d:\\develop\\vs studio\\assignment9\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F2F5CAF-F34F-46D9-8A6B-9E60923F8AB9}|Assignment9.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\client\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\client\\OrderService.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\client\\OrderService.cs",
+              "RelativeToolTip": "..\\client\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:46:16.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\client\\Program.cs",
+              "RelativeDocumentMoniker": "..\\client\\Program.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\client\\Program.cs",
+              "RelativeToolTip": "..\\client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:44:31.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\client\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "..\\client\\OrderDetails.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\client\\OrderDetails.cs",
+              "RelativeToolTip": "..\\client\\OrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:46:11.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\client\\Order.cs",
+              "RelativeDocumentMoniker": "..\\client\\Order.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\client\\Order.cs",
+              "RelativeToolTip": "..\\client\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:46:06.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Goods.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\client\\Goods.cs",
+              "RelativeDocumentMoniker": "..\\client\\Goods.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\client\\Goods.cs",
+              "RelativeToolTip": "..\\client\\Goods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:45:46.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\client\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\client\\Customer.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\client\\Customer.cs",
+              "RelativeToolTip": "..\\client\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:45:42.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\Assignment9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\Assignment9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:37:59.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\Assignment9\\models\\OrderContext.cs",
+              "RelativeDocumentMoniker": "models\\OrderContext.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\Assignment9\\models\\OrderContext.cs",
+              "RelativeToolTip": "models\\OrderContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:00:21.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\Assignment9\\Controllers\\Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Controller.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\Assignment9\\Controllers\\Controller.cs",
+              "RelativeToolTip": "Controllers\\Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:42:38.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\Assignment9\\models\\OrderService.cs",
+              "RelativeDocumentMoniker": "models\\OrderService.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\Assignment9\\models\\OrderService.cs",
+              "RelativeToolTip": "models\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:46:18.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\Assignment9\\models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "models\\OrderDetails.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\Assignment9\\models\\OrderDetails.cs",
+              "RelativeToolTip": "models\\OrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:46:15.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\Assignment9\\models\\Order.cs",
+              "RelativeDocumentMoniker": "models\\Order.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\Assignment9\\models\\Order.cs",
+              "RelativeToolTip": "models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:46:12.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\Assignment9\\models\\Customer.cs",
+              "RelativeDocumentMoniker": "models\\Customer.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\Assignment9\\models\\Customer.cs",
+              "RelativeToolTip": "models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:45:19.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Goods.cs",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\Assignment9\\models\\Goods.cs",
+              "RelativeDocumentMoniker": "models\\Goods.cs",
+              "ToolTip": "D:\\develop\\VS Studio\\Assignment9\\models\\Goods.cs",
+              "RelativeToolTip": "models\\Goods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:46:08.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Assignment9",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\Assignment9\\Assignment9.csproj",
+              "RelativeDocumentMoniker": "Assignment9.csproj",
+              "ToolTip": "D:\\develop\\VS Studio\\Assignment9\\Assignment9.csproj",
+              "RelativeToolTip": "Assignment9.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T06:41:33.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\develop\\VS Studio\\Assignment9\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "D:\\develop\\VS Studio\\Assignment9\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T06:41:28.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
